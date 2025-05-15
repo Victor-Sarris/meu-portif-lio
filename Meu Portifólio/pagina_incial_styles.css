@@ -1,0 +1,31 @@
+/*----------------------------------------- Cabeçalho site (header) ------------------------------*/
+
+h1#h1_principal{
+    color: #FAE3C6;
+    font-size: 2em;
+    text-align: center;
+    margin-top: 20px;
+}
+
+/*----------------------------------------- Corpo site (body) --------------------------------------*/
+
+body{
+    background-color: rgb(19, 19, 19);
+    color: white;
+    margin-left: 1rem;
+    margin-right: 2rem;
+}
+
+.conteiner_inicial img{
+    border-radius: 50%;
+    width: 400px;
+    height: 400px;
+    border: #F03C3C solid 5px;
+}
+.conteiner_inicial{
+    display: flex;
+    text-align: justify;
+}
+.informacoes h3{
+    text-align: center;
+}
